@@ -4,7 +4,7 @@
   <title><![CDATA[Poutiniere's blog]]></title>
   <link href="http://poutiniere.github.com/atom.xml" rel="self"/>
   <link href="http://poutiniere.github.com/"/>
-  <updated>2011-11-04T12:57:50-04:00</updated>
+  <updated>2011-11-04T12:59:45-04:00</updated>
   <id>http://poutiniere.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -19,6 +19,9 @@
     <updated>2011-11-04T12:54:00-04:00</updated>
     <id>http://poutiniere.github.com/blog/2011/11/04/allo</id>
     <content type="html"><![CDATA[<p>lol lol <strong>lol</strong><br />lol</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BxhqVrbixZc" frameborder="0" allowfullscreen></iframe>
+
 ]]></content>
   </entry>
   
