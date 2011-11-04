@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Poutiniere's blog]]></title>
-  <link href="http://Poutiniere.github.com/atom.xml" rel="self"/>
-  <link href="http://Poutiniere.github.com/"/>
-  <updated>2011-11-04T12:29:39-04:00</updated>
-  <id>http://Poutiniere.github.com/</id>
+  <link href="http://poutiniere.github.com/atom.xml" rel="self"/>
+  <link href="http://poutiniere.github.com/"/>
+  <updated>2011-11-04T12:37:20-04:00</updated>
+  <id>http://poutiniere.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://Poutiniere.github.com/blog/2011/11/04/welcome/"/>
+    <link href="http://poutiniere.github.com/blog/2011/11/04/welcome/"/>
     <updated>2011-11-04T01:37:00-04:00</updated>
-    <id>http://Poutiniere.github.com/blog/2011/11/04/welcome</id>
+    <id>http://poutiniere.github.com/blog/2011/11/04/welcome</id>
     <content type="html"><![CDATA[<p>Hello,</p>
 
 <p>Un premier post pour vous souhaiter la bienvenue sur ce blog qui vous permettra de suivre nos petites aventures :)</p>

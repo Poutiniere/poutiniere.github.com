@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Poutiniere.github.com/blog/2011/11/04/welcome/</loc>
+        <loc>http://poutiniere.github.com/blog/2011/11/04/welcome/</loc>
         <lastmod>2011-11-04T12:29:25-04:00</lastmod>
     </url>
     <url>
-        <loc>http://Poutiniere.github.com/blog/archives/</loc>
+        <loc>http://poutiniere.github.com/blog/archives/</loc>
         <lastmod>2011-11-04T12:29:25-04:00</lastmod>
     </url>
     <url>
-        <loc>http://Poutiniere.github.com/</loc>
+        <loc>http://poutiniere.github.com/</loc>
         <lastmod>2011-11-04T12:29:25-04:00</lastmod>
     </url>
 </urlset>
