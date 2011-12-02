@@ -4,7 +4,7 @@
   <title><![CDATA[Poutiniere's blog]]></title>
   <link href="http://poutiniere.github.com/atom.xml" rel="self"/>
   <link href="http://poutiniere.github.com/"/>
-  <updated>2011-12-01T23:22:19-05:00</updated>
+  <updated>2011-12-01T23:56:36-05:00</updated>
   <id>http://poutiniere.github.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[La poutine]]></title>
+    <link href="http://poutiniere.github.com/blog/2011/12/01/la-poutine/"/>
+    <updated>2011-12-01T23:38:00-05:00</updated>
+    <id>http://poutiniere.github.com/blog/2011/12/01/la-poutine</id>
+    <content type="html"><![CDATA[<p>Les poutines il en existe de toutes sortes, petite, grande, ronde, carrée, chargée etc.</p>
+
+<p>D&#8217;ailleurs suivent quelques photos :</p>
+
+<p>Vous en conviendrez qu&#8217;elles ne vous laissent pas indifférents n&#8217;est-ce pas ?</p>
+
+<p>Ah pourquoi y&#8217;a pas plus de restos qui font ça en France&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[allo]]></title>
     <link href="http://poutiniere.github.com/blog/2011/11/04/allo/"/>
     <updated>2011-11-04T12:54:00-04:00</updated>
     <id>http://poutiniere.github.com/blog/2011/11/04/allo</id>
-    <content type="html"><![CDATA[<p>lol <strong>lol</strong><br />lol</p>
+    <content type="html"><![CDATA[<p>Hello, un article test</p>
+
+<p><strong>lol</strong><br />lol</p>
 
 <p><iframe width="560" height="315" src="http://www.youtube.com/embed/BxhqVrbixZc" frameborder="0" allowfullscreen></iframe></p>
 
